@@ -1,2 +1,2 @@
 # Landingpage-Responsive
-proyecto a presentar
+proyecto a presentar (por favor revisar)
